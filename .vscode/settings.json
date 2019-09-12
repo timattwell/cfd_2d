@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "config": "shellscript",
+        "pang": "cpp",
+        "ctime": "cpp",
+        "cmath": "cpp"
+    }
+}
