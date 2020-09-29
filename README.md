@@ -1,4 +1,4 @@
-A C++ based CFD code written for my high performance computing university module. Currently bad. Will be better soon.
+A C++ based CFD code written for my high performance computing university module. Currently bad. Will be better soon (TM).
 
 Planned improvements/changes (in no particular order):
 1) Optimisations to the numerical scheme used by the solver -
